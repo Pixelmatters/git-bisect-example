@@ -1,5 +1,6 @@
 {
-  "name": "svelte-app",
+  "name": "@pixelmatters/git-bisect-example",
+  "description": "Example repository for the Git Bisect article",
   "version": "1.0.0",
   "private": true,
   "scripts": {
