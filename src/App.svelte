@@ -1,10 +1,14 @@
 <script>
-	export let name;
+	import Animation from "./Animation.svelte";
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>Git Bisect Example</h1>
+
+	<div class="animationWrapper">
+
+		<Animation />
+	</div>
 </main>
 
 <style>
@@ -20,6 +24,12 @@
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;
+	}
+
+	.animationWrapper {
+		margin: 0 auto;
+		padding: 16px 0;
+		max-width: 400px;
 	}
 
 	@media (min-width: 640px) {
