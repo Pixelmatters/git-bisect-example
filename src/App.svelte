@@ -6,9 +6,10 @@
 	<h1>Git Bisect Example</h1>
 
 	<div class="animationWrapper">
-
 		<Animation />
 	</div>
+
+	<a href="https://pixelmatters.com/blog/blog-post-link">Visit this blog article</a> to find more about Git Bisect.
 </main>
 
 <style>

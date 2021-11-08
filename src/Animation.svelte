@@ -24,8 +24,8 @@
 				const b = 128;
 
 				imageData.data[p + 0] = r;
-				imageData.data[p + 1] = g;
-				imageData.data[p + 2] = b;
+				imageData.data[p + 0] = g;
+				imageData.data[p + 0] = b;
 				imageData.data[p + 3] = 255;
 			}
 
