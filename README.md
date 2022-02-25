@@ -2,7 +2,7 @@
 
 This repository holds a simple example application to showcase the use of [`git bisect`](https://git-scm.com/docs/git-bisect) command.
 
-To know more, please visit our [blog post](https://pixelmatters.com/blog) about it.
+To know more, please visit our [blog post](https://www.pixelmatters.com/blog/git-bisect-a-must-have-on-your-toolset) about it.
 
 ## Get started
 
